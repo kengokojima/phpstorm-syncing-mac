@@ -20,22 +20,22 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile path/to/project $FileName$" />
+      <option name="arguments" value="compile C:/xampp/htdocs/wp/wp-content/themes/self-satisfaction $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="" />
+      <option name="output" value="C:/xampp/htdocs/wp/wp-content/themes/self-satisfaction" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="" />
+      <option name="program" value="C:/Ruby24-x64/bin/compass.bat" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="workingDir" value="C:/xampp/htdocs/wp/wp-content/themes/self-satisfaction" />
       <envs />
     </TaskOptions>
   </component>
