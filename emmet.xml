@@ -1,5 +1,6 @@
 <application>
   <component name="EmmetOptions">
+    <option name="bemShortElementPrefix" value="_" />
     <option name="filtersEnabledByDefault">
       <set>
         <option value="bem" />
