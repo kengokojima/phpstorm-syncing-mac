@@ -1,7 +1,10 @@
 <code_scheme name="Default">
   <option name="HTML_KEEP_WHITESPACES" value="true" />
-  <option name="HTML_ALIGN_TEXT" value="true" />
-  <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRINUTE" value="true" />
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_TEXT_WRAP" value="0" />
+  <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,head" />
+  <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
