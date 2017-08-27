@@ -1,15 +1,15 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/Applications/MAMP/bin/php/php7.1.0/bin/php" id="fc8ea089-f692-43bb-bb7c-99b6554e4cf3" name="PHP from MAMP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php7.1.6/bin/php" id="fc8ea089-f692-43bb-bb7c-99b6554e4cf3" name="PHP from MAMP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP from MAMP">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.1.0/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.1.0/bin/php" path_separator=":" version="7.1.0" warning="Failed loading /Applications/MAMP/bin/php/php7.1.0/lib/php/extensions/no-debug-non-zts-20151012/xdebug.so:  dlopen(/Applications/MAMP/bin/php/php7.1.0/lib/php/extensions/no-debug-non-zts-20151012/xdebug.so, 9): image not found&#10;">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.1.6/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.1.6/bin/php" path_separator=":" version="7.1.6">
           <additional_php_ini />
-          <configuration_file>/Applications/MAMP/bin/php/php7.1.0/conf/php.ini</configuration_file>
+          <configuration_file>/Applications/MAMP/bin/php/php7.1.6/conf/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -59,7 +59,7 @@
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.1.0/lib/php/extensions/no-debug-non-zts-20151012/" />
+            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.1.6/lib/php/extensions/no-debug-non-zts-20160303/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -79,7 +79,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.1.0/lib/php" />
+            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.1.6/lib/php" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -106,6 +106,8 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
+            <configuration_option name="mcrypt.algorithms_dir" value="" />
+            <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
@@ -139,12 +141,18 @@
             <configuration_option name="pcre.jit" value="1" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
             <configuration_option name="pdo_mysql.default_socket" value="/Applications/MAMP/tmp/mysql/mysql.sock" />
+            <configuration_option name="pgsql.allow_persistent" value="1" />
+            <configuration_option name="pgsql.auto_reset_persistent" value="" />
+            <configuration_option name="pgsql.ignore_notice" value="0" />
+            <configuration_option name="pgsql.log_notice" value="0" />
+            <configuration_option name="pgsql.max_links" value="-1" />
+            <configuration_option name="pgsql.max_persistent" value="-1" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="post_max_size" value="32M" />
             <configuration_option name="precision" value="12" />
-            <configuration_option name="realpath_cache_size" value="16K" />
+            <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
@@ -237,19 +245,24 @@
             <extension name="filter" />
             <extension name="ftp" />
             <extension name="gd" />
+            <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imap" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
@@ -261,6 +274,7 @@
             <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
+            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />
