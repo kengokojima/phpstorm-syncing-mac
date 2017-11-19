@@ -20,14 +20,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile $ProjectFileDir$ $UnixSeparators($FilePath$)$ -c $ProjectFileDir$/config.rb" />
+      <option name="arguments" value="compile &quot;/Users/kengokojima/Google Drive/WordPress Project/self_satisfaction/wordpress/wp-content/themes/self_satisfaction&quot; $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="" />
+      <option name="output" value="$USER_HOME$/Google Drive/WordPress Project/self_satisfaction/wordpress/wp-content/themes/self_satisfaction" />
       <option name="outputFilters">
         <array />
       </option>
@@ -35,7 +35,7 @@
       <option name="program" value="/usr/local/bin/compass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="" />
+      <option name="workingDir" value="$USER_HOME$/Google Drive/WordPress Project/self_satisfaction/wordpress/wp-content/themes/self_satisfaction" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="false">
