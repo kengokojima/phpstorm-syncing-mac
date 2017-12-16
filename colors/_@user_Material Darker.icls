@@ -4,7 +4,7 @@
     <property name="created">2017-11-21T23:12:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-11-21T23:17:32</property>
+    <property name="modified">2017-12-16T17:37:47</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3258,6 +3258,11 @@
       <value>
         <option name="FOREGROUND" value="82aaff" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SASS_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
