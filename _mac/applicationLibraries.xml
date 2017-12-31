@@ -5,11 +5,15 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__82mou.github.io_threejs_js_OrbitControls.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_three-orbitcontrols@2.0.0_OrbitControls.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__github.com_mrdoob_three.js_blob_dev_examples_js_controls_OrbitControls.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_three-orbitcontrols@2.0.0_OrbitControls.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__82mou.github.io_threejs_js_OrbitControls.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_three-orbitcontrols@2.0.0_OrbitControls.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__github.com_mrdoob_three.js_blob_dev_examples_js_controls_OrbitControls.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_three-orbitcontrols@2.0.0_OrbitControls.js" />
       </CLASSES>
       <SOURCES />
     </library>
