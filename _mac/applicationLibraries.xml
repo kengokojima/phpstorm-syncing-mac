@@ -44,11 +44,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_vue-resource@1.2.0_dist_vue-resource.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue-resource@1.2.0_dist_vue-resource.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue-resource_dist_vue-resource.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_vue-resource@1.2.0_dist_vue-resource.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue-resource@1.2.0_dist_vue-resource.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue-resource_dist_vue-resource.js" />
       </CLASSES>
       <SOURCES />
     </library>
