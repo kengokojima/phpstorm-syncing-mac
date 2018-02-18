@@ -20,7 +20,7 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="compile &quot;/Users/kengokojima/Google Drive/WordPress Project/self_satisfaction/wordpress/wp-content/themes/self_satisfaction&quot; $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
