@@ -1,8 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="html" type="HTML" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="html" type="PLAIN_TEXT" />
+      <mapping ext="" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
