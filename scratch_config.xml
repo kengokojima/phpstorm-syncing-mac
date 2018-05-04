@@ -3,10 +3,10 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="blog_contents.html" />
         <option value="test.html" />
+        <option value="blog_contents.php" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="blog_contents.html" />
+    <option name="lastOpenedScratch" value="blog_contents.php" />
   </component>
 </application>
