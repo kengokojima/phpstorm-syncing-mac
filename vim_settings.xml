@@ -2,14 +2,33 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Google Drive/Development/LP/aquos-r2/gulpfile.js" timestamp="1532171158105">
+        <mark key="[" line="79" column="53" />
+        <mark key="]" line="79" column="53" />
+        <mark key="." line="79" column="53" />
+        <mark key="^" line="70" column="25" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Ly8gICAgIC5waXBlKHBsdW1iZXIoewovLyAgICAgICAgIGVycm9ySGFuZGxlcjogbm90aWZ5Lm9uRXJyb3IoJzwlPSBlcnJvci5tZXNzYWdlICU+JykKLy8gICAgIH0pKQovLyAgICAgLnBpcGUoZ3VscC5kZXN0KCcuLycpKQovLyAgICAgLnBpcGUoc3luYy5yZWxvYWQoewovLyAgICAgICAgIHN0cmVhbTogdHJ1ZQovLyAgICAgfSkpKTsK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>'</text>
+      </register>
+      <register name="-" type="4">
+        <text>'</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
