@@ -1,37 +1,122 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1532244382996">
+      <file name="/Dummy.txt" timestamp="1532258086760">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/index.html" timestamp="1532257864917">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="27" column="12" />
+      </file>
       <file name="$USER_HOME$/Google Drive/WordPress Project/new_blog/wordpress/wp-content/themes/devnote/header.php" timestamp="1532244554316" />
+      <file name="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/_welcome.blade.php" timestamp="1532256687753">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="67" column="15" />
+        <mark key="." line="16" column="1120" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Development/LP/aquos-r2/gulpfile.js" timestamp="1532171158105">
         <mark key="[" line="79" column="53" />
         <mark key="]" line="79" column="53" />
         <mark key="." line="79" column="53" />
         <mark key="^" line="70" column="25" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" timestamp="1532257916214">
+        <mark key="'" line="74" column="3" />
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="74" column="4" />
+        <mark key="^" line="73" column="0" />
+        <mark key="." line="74" column="4" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="109" column="3" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="1" column="6" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="2" column="9" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="16" column="14" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="70" column="4" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="12" column="62" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="32" column="8" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/index.html" />
+      <jump line="16" column="7" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/_welcome.blade.php" />
+      <jump line="90" column="47" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="71" column="5" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="155" column="61" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+      <jump line="262" column="8" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/index.html" />
+      <jump line="14" column="8" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/index.html" />
+      <jump line="74" column="3" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
+    </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gICAgIC5waXBlKHBsdW1iZXIoewovLyAgICAgICAgIGVycm9ySGFuZGxlcjogbm90aWZ5Lm9uRXJyb3IoJzwlPSBlcnJvci5tZXNzYWdlICU+JykKLy8gICAgIH0pKQovLyAgICAgLnBpcGUoZ3VscC5kZXN0KCcuLycpKQovLyAgICAgLnBpcGUoc3luYy5yZWxvYWQoewovLyAgICAgICAgIHN0cmVhbTogdHJ1ZQovLyAgICAgfSkpKTsK</text>
+      <register name="a" type="4">
+        <text>{{asset ('img/1.jpg')}}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">PHN5bWJvbCBpZD0iaWNvbi1hcnJvdyIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgICAgICA8dGl0bGU+YXJyb3c8L3RpdGxlPgogICAgICAgIDxwb2x5Z29uIHBvaW50cz0iNi4zLDEyLjggMjAuOSwxMi44IDIwLjksMTEuMiA2LjMsMTEuMiAxMC4yLDcuMiA5LDYgMy4xLDEyIDksMTggMTAuMiwxNi44ICIvPgogICAgPC9zeW1ib2w+CiAgICA8c3ltYm9sIGlkPSJpY29uLWRyb3AiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgICAgICAgPHRpdGxlPmRyb3A8L3RpdGxlPgogICAgICAgIDxwYXRoCiAgICAgICAgICAgIGQ9Ik0xMiwyMWMtMy42LDAtNi42LTMtNi42LTYuNkM1LjQsMTEsMTAuOCw0LDExLjQsMy4yQzExLjYsMy4xLDExLjgsMywxMiwzczAuNCwwLjEsMC42LDAuM2MwLjYsMC44LDYuMSw3LjgsNi4xLDExLjJDMTguNiwxOC4xLDE1LjYsMjEsMTIsMjF6TTEyLDQuOGMtMS44LDIuNC01LjIsNy40LTUuMiw5LjZjMCwyLjksMi4zLDUuMiw1LjIsNS4yczUuMi0yLjMsNS4yLTUuMkMxNy4yLDEyLjIsMTMuOCw3LjMsMTIsNC44eiIKICAgICAgICAvPgogICAgICAgIDxwYXRoCiAgICAgICAgICAgIGQ9Ik0xMiwxOC4yYy0wLjQsMC0wLjctMC4zLTAuNy0wLjdzMC4zLTAuNywwLjctMC43YzEuMywwLDIuNC0xLjEsMi40LTIuNGMwLTAuNCwwLjMtMC43LDAuNy0wLjdjMC40LDAsMC43LDAuMywwLjcsMC43QzE1LjgsMTYuNSwxNC4xLDE4LjIsMTIsMTguMnoiCiAgICAgICAgLz4KICAgIDwvc3ltYm9sPg==</text>
+      </register>
+      <register name="b" type="4">
+        <text encoding="base64">PHN2ZyBjbGFzcz0iaGlkZGVuIj4KCQkJPHN5bWJvbCBpZD0iaWNvbi1hcnJvdyIgdmlld0JveD0iMCAwIDI0IDI0Ij4KCQkJCTx0aXRsZT5hcnJvdzwvdGl0bGU+CgkJCQk8cG9seWdvbiBwb2ludHM9IjYuMywxMi44IDIwLjksMTIuOCAyMC45LDExLjIgNi4zLDExLjIgMTAuMiw3LjIgOSw2IDMuMSwxMiA5LDE4IDEwLjIsMTYuOCAiLz4KCQkJPC9zeW1ib2w+CgkJCTxzeW1ib2wgaWQ9Imljb24tZHJvcCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KCQkJCTx0aXRsZT5kcm9wPC90aXRsZT4KCQkJCTxwYXRoIGQ9Ik0xMiwyMWMtMy42LDAtNi42LTMtNi42LTYuNkM1LjQsMTEsMTAuOCw0LDExLjQsMy4yQzExLjYsMy4xLDExLjgsMywxMiwzczAuNCwwLjEsMC42LDAuM2MwLjYsMC44LDYuMSw3LjgsNi4xLDExLjJDMTguNiwxOC4xLDE1LjYsMjEsMTIsMjF6TTEyLDQuOGMtMS44LDIuNC01LjIsNy40LTUuMiw5LjZjMCwyLjksMi4zLDUuMiw1LjIsNS4yczUuMi0yLjMsNS4yLTUuMkMxNy4yLDEyLjIsMTMuOCw3LjMsMTIsNC44eiIvPjxwYXRoIGQ9Ik0xMiwxOC4yYy0wLjQsMC0wLjctMC4zLTAuNy0wLjdzMC4zLTAuNywwLjctMC43YzEuMywwLDIuNC0xLjEsMi40LTIuNGMwLTAuNCwwLjMtMC43LDAuNy0wLjdjMC40LDAsMC43LDAuMywwLjcsMC43QzE1LjgsMTYuNSwxNC4xLDE4LjIsMTIsMTguMnoiLz4KCQkJPC9zeW1ib2w+CgkJCTxzdmcgaWQ9Imljb24tZ2l0aHViIiB2aWV3Qm94PSIwIDAgMzMgMzMiPgoJCQkJPHRpdGxlPmdpdGh1YjwvdGl0bGU+CgkJCQk8cGF0aCBkPSJNMTYuNjA4LjQ1NUM3LjYxNC40NTUuMzIgNy43NDguMzIgMTYuNzQ1YzAgNy4xOTcgNC42NjcgMTMuMzAyIDExLjE0IDE1LjQ1Ni44MTUuMTUgMS4xMTItLjM1MyAxLjExMi0uNzg1IDAtLjM4Ni0uMDE0LTEuNDExLS4wMjItMi43Ny00LjUzMS45ODQtNS40ODctMi4xODQtNS40ODctMi4xODQtLjc0MS0xLjg4Mi0xLjgwOS0yLjM4My0xLjgwOS0yLjM4My0xLjQ3OS0xLjAxLjExMi0uOTkuMTEyLS45OSAxLjYzNS4xMTUgMi40OTUgMS42NzkgMi40OTUgMS42NzkgMS40NTMgMi40ODkgMy44MTMgMS43NyA0Ljc0MSAxLjM1My4xNDgtMS4wNTIuNTY5LTEuNzcgMS4wMzQtMi4xNzctMy42MTctLjQxMS03LjQyLTEuODA5LTcuNDItOC4wNTEgMC0xLjc3OC42MzUtMy4yMzMgMS42NzctNC4zNzEtLjE2OC0uNDEyLS43MjctMi4wNjkuMTYtNC4zMTEgMCAwIDEuMzY3LS40MzggNC40NzkgMS42N2ExNS42MDIgMTUuNjAyIDAgMCAxIDQuMDc4LS41NDkgMTUuNjIgMTUuNjIgMCAwIDEgNC4wNzguNTQ5YzMuMTEtMi4xMDggNC40NzUtMS42NyA0LjQ3NS0xLjY3Ljg4OSAyLjI0Mi4zMyAzLjg5OS4xNjMgNC4zMTFDMjYuMzcgMTIuNjYgMjcgMTQuMTE1IDI3IDE1Ljg5M2MwIDYuMjU4LTMuODA5IDcuNjM1LTcuNDM3IDguMDM4LjU4NC41MDMgMS4xMDUgMS40OTcgMS4xMDUgMy4wMTcgMCAyLjE3Ny0uMDIgMy45MzQtLjAyIDQuNDY4IDAgLjQzNi4yOTQuOTQzIDEuMTIuNzg0IDYuNDY4LTIuMTU5IDExLjEzMS04LjI2IDExLjEzMS0xNS40NTUgMC04Ljk5Ny03LjI5NC0xNi4yOS0xNi4yOTEtMTYuMjkiPjwvcGF0aD4KCQkJPC9zdmc+CgkJCTxzeW1ib2wgaWQ9Imljb24tY3Jvc3MiIHZpZXdCb3g9IjAgMCAyNCAyMyI+CgkJCQk8dGl0bGU+Y3Jvc3M8L3RpdGxlPgoJCQkJPHBhdGggZD0iTTIzLjg2NSAzLjY3N2MuMTk3LS4zODMuMTY0LS44MTgtLjAwOC0xLjE4LjA0OC0uNDEtLjA2LS44MjctLjQ0OC0xLjE0N0wyMi4zMjMuNDU3Yy0uNjM2LS41MjQtMS42MzItLjY4OS0yLjI1IDBhMTU1LjM0OCAxNTUuMzQ4IDAgMCAxLTguNzk3IDkuMDAxQzkuMDExIDcuMzQyIDYuNzIgNS4yNTUgNC40NDMgMy4xNjVjLS44LS43MzQtMS45NTYtLjUwMy0yLjQ1OC4zN0MxLjI1MyAzLjkuNjU5IDQuMzc0LjE2OCA1LjE4MmMtLjIzMy4zODYtLjIxNS44NzIgMCAxLjI1OCAxLjQ3IDIuNjM1IDQuMzEgNC45NTEgNi42NDYgNy4wODMtLjMxMy4yOC0uNjIzLjU2Mi0uOTQyLjgzNi0zLjE0NiAyLjcwMi01LjI2OCA0LjQxNi0xLjMzMSA3LjE4Ny4wNTMuMDM3LjEwNy4wMjkuMTYxLjA1LjA3Ni4wMzYuMTQ4LjA2LjIzMi4wNzQuMDI2IDAgLjA1LjAwNS4wNzUuMDAzLjA4Mi4wMDcuMTYuMDI3LjI0My4wMTEgMi4xMTctLjQxNSA0LjA4NS0yLjA3NCA1Ljg3Mi0zLjkgMS43NCAxLjcxNSAzLjU5MiAzLjM1MyA1LjYzIDQuMzI1LjQ4NS4yMzIgMS4wNjMuMDk3IDEuNDM2LS4yMjcuNjI2LjA0NyAxLjE5Ny0uMzQyIDEuNDg0LS45MDEuMDQyLS4wMjYuMDctLjA0MS4xMTYtLjA3LjkxLS41NjkuOTkzLTEuNzAxLjMyLTIuNDgyLTEuNTIyLTEuNzYyLTMuMTM4LTMuNDM4LTQuNzg3LTUuMDg0IDIuOTY4LTIuOSA2LjY3NC02LjAyNyA4LjU0Mi05LjY2N3oiLz4KCQkJPC9zeW1ib2w+CgkJPC9zdmc+</text>
+      </register>
+      <register name="c" type="4">
+        <text encoding="base64">PCEtLSBGb250cyAtLT4KICAgICAgICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9UmFsZXdheToxMDAsNjAwIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIj4=</text>
+      </register>
+      <register name="d" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iZmxleC1jZW50ZXIgcG9zaXRpb24tcmVmIGZ1bGwtaGVpZ2h0Ij4KICAgICAgICBAaWYgKFJvdXRlOjpoYXMoJ2xvZ2luJykpCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InRvcC1yaWdodCBsaW5rcyI+CiAgICAgICAgICAgICAgICBAYXV0aAogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IHVybCgnL2hvbWUnKSB9fSI+SG9tZTwvYT4KICAgICAgICAgICAgICAgIEBlbHNlCiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2xvZ2luJykgfX0iPkxvZ2luPC9hPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IHJvdXRlKCdyZWdpc3RlcicpIH19Ij5SZWdpc3RlcjwvYT4KICAgICAgICAgICAgICAgIEBlbmRhdXRoCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIEBlbmRpZgoKICAgICAgICA8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUgbS1iLW1kIj4KICAgICAgICAgICAgICAgIEJvb2sgU2hlbGYKICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJsaW5rcyI+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIj5Ib21lPC9hPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iIyI+TWFuZ2E8L2E+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIj5Ob3ZlbHM8L2E+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIj5NeXBhZ2U8L2E+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIj5Db250YWN0PC9hPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>i</text>
+      </register>
+      <register name="/" type="4">
+        <text>icon-cross</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">PHN5bWJvbCBpZD0iaWNvbi1hcnJvdyIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgICAgICA8dGl0bGU+YXJyb3c8L3RpdGxlPgogICAgICAgIDxwb2x5Z29uIHBvaW50cz0iNi4zLDEyLjggMjAuOSwxMi44IDIwLjksMTEuMiA2LjMsMTEuMiAxMC4yLDcuMiA5LDYgMy4xLDEyIDksMTggMTAuMiwxNi44ICIvPgogICAgPC9zeW1ib2w+CiAgICA8c3ltYm9sIGlkPSJpY29uLWRyb3AiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgICAgICAgPHRpdGxlPmRyb3A8L3RpdGxlPgogICAgICAgIDxwYXRoCiAgICAgICAgICAgIGQ9Ik0xMiwyMWMtMy42LDAtNi42LTMtNi42LTYuNkM1LjQsMTEsMTAuOCw0LDExLjQsMy4yQzExLjYsMy4xLDExLjgsMywxMiwzczAuNCwwLjEsMC42LDAuM2MwLjYsMC44LDYuMSw3LjgsNi4xLDExLjJDMTguNiwxOC4xLDE1LjYsMjEsMTIsMjF6TTEyLDQuOGMtMS44LDIuNC01LjIsNy40LTUuMiw5LjZjMCwyLjksMi4zLDUuMiw1LjIsNS4yczUuMi0yLjMsNS4yLTUuMkMxNy4yLDEyLjIsMTMuOCw3LjMsMTIsNC44eiIKICAgICAgICAvPgogICAgICAgIDxwYXRoCiAgICAgICAgICAgIGQ9Ik0xMiwxOC4yYy0wLjQsMC0wLjctMC4zLTAuNy0wLjdzMC4zLTAuNywwLjctMC43YzEuMywwLDIuNC0xLjEsMi40LTIuNGMwLTAuNCwwLjMtMC43LDAuNy0wLjdjMC40LDAsMC43LDAuMywwLjcsMC43QzE1LjgsMTYuNSwxNC4xLDE4LjIsMTIsMTguMnoiCiAgICAgICAgLz4KICAgIDwvc3ltYm9sPg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">PHN2ZyBpZD0iaWNvbi1naXRodWIiIHZpZXdCb3g9IjAgMCAzMyAzMyI+CiAgICAgICAgPHRpdGxlPmdpdGh1YjwvdGl0bGU+CiAgICAgICAgPHBhdGgKICAgICAgICAgICAgZD0iTTE2LjYwOC40NTVDNy42MTQuNDU1LjMyIDcuNzQ4LjMyIDE2Ljc0NWMwIDcuMTk3IDQuNjY3IDEzLjMwMiAxMS4xNCAxNS40NTYuODE1LjE1IDEuMTEyLS4zNTMgMS4xMTItLjc4NSAwLS4zODYtLjAxNC0xLjQxMS0uMDIyLTIuNzctNC41MzEuOTg0LTUuNDg3LTIuMTg0LTUuNDg3LTIuMTg0LS43NDEtMS44ODItMS44MDktMi4zODMtMS44MDktMi4zODMtMS40NzktMS4wMS4xMTItLjk5LjExMi0uOTkgMS42MzUuMTE1IDIuNDk1IDEuNjc5IDIuNDk1IDEuNjc5IDEuNDUzIDIuNDg5IDMuODEzIDEuNzcgNC43NDEgMS4zNTMuMTQ4LTEuMDUyLjU2OS0xLjc3IDEuMDM0LTIuMTc3LTMuNjE3LS40MTEtNy40Mi0xLjgwOS03LjQyLTguMDUxIDAtMS43NzguNjM1LTMuMjMzIDEuNjc3LTQuMzcxLS4xNjgtLjQxMi0uNzI3LTIuMDY5LjE2LTQuMzExIDAgMCAxLjM2Ny0uNDM4IDQuNDc5IDEuNjdhMTUuNjAyIDE1LjYwMiAwIDAgMSA0LjA3OC0uNTQ5IDE1LjYyIDE1LjYyIDAgMCAxIDQuMDc4LjU0OWMzLjExLTIuMTA4IDQuNDc1LTEuNjcgNC40NzUtMS42Ny44ODkgMi4yNDIuMzMgMy44OTkuMTYzIDQuMzExQzI2LjM3IDEyLjY2IDI3IDE0LjExNSAyNyAxNS44OTNjMCA2LjI1OC0zLjgwOSA3LjYzNS03LjQzNyA4LjAzOC41ODQuNTAzIDEuMTA1IDEuNDk3IDEuMTA1IDMuMDE3IDAgMi4xNzctLjAyIDMuOTM0LS4wMiA0LjQ2OCAwIC40MzYuMjk0Ljk0MyAxLjEyLjc4NCA2LjQ2OC0yLjE1OSAxMS4xMzEtOC4yNiAxMS4xMzEtMTUuNDU1IDAtOC45OTctNy4yOTQtMTYuMjktMTYuMjkxLTE2LjI5IgogICAgICAgID48L3BhdGg+CiAgICA8L3N2Zz4=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PHN5bWJvbCBpZD0iaWNvbi1jcm9zcyIgdmlld0JveD0iMCAwIDI0IDIzIj4KCQkJCTx0aXRsZT5jcm9zczwvdGl0bGU+CgkJCQk8cGF0aCBkPSJNMjMuODY1IDMuNjc3Yy4xOTctLjM4My4xNjQtLjgxOC0uMDA4LTEuMTguMDQ4LS40MS0uMDYtLjgyNy0uNDQ4LTEuMTQ3TDIyLjMyMy40NTdjLS42MzYtLjUyNC0xLjYzMi0uNjg5LTIuMjUgMGExNTUuMzQ4IDE1NS4zNDggMCAwIDEtOC43OTcgOS4wMDFDOS4wMTEgNy4zNDIgNi43MiA1LjI1NSA0LjQ0MyAzLjE2NWMtLjgtLjczNC0xLjk1Ni0uNTAzLTIuNDU4LjM3QzEuMjUzIDMuOS42NTkgNC4zNzQuMTY4IDUuMTgyYy0uMjMzLjM4Ni0uMjE1Ljg3MiAwIDEuMjU4IDEuNDcgMi42MzUgNC4zMSA0Ljk1MSA2LjY0NiA3LjA4My0uMzEzLjI4LS42MjMuNTYyLS45NDIuODM2LTMuMTQ2IDIuNzAyLTUuMjY4IDQuNDE2LTEuMzMxIDcuMTg3LjA1My4wMzcuMTA3LjAyOS4xNjEuMDUuMDc2LjAzNi4xNDguMDYuMjMyLjA3NC4wMjYgMCAuMDUuMDA1LjA3NS4wMDMuMDgyLjAwNy4xNi4wMjcuMjQzLjAxMSAyLjExNy0uNDE1IDQuMDg1LTIuMDc0IDUuODcyLTMuOSAxLjc0IDEuNzE1IDMuNTkyIDMuMzUzIDUuNjMgNC4zMjUuNDg1LjIzMiAxLjA2My4wOTcgMS40MzYtLjIyNy42MjYuMDQ3IDEuMTk3LS4zNDIgMS40ODQtLjkwMS4wNDItLjAyNi4wNy0uMDQxLjExNi0uMDcuOTEtLjU2OS45OTMtMS43MDEuMzItMi40ODItMS41MjItMS43NjItMy4xMzgtMy40MzgtNC43ODctNS4wODQgMi45NjgtMi45IDYuNjc0LTYuMDI3IDguNTQyLTkuNjY3eiIvPgoJCQk8L3N5bWJvbD4=</text>
+      </register>
+      <register name="4" type="4">
+        <text>.full-height {
+        height: 100vh;
+    }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRlbnQiPgogICAgICAgIDxoZWFkZXIgY2xhc3M9ImNvZHJvcHMtaGVhZGVyIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29kcm9wcy1saW5rcyI+CiAgICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJjb2Ryb3BzLWljb24gY29kcm9wcy1pY29uLS1wcmV2IiBocmVmPSJodHRwczovL3R5bXBhbnVzLm5ldC9EZXZlbG9wbWVudC9Qcm94aW1pdHlGZWVkYmFjay8iCiAgICAgICAgICAgICAgICAgICAgdGl0bGU9IlByZXZpb3VzIERlbW8iCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPHN2ZyBjbGFzcz0iaWNvbiBpY29uLS1hcnJvdyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ciPjwvdXNlPgogICAgICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgICBjbGFzcz0iY29kcm9wcy1pY29uIGNvZHJvcHMtaWNvbi0tZHJvcCIgaHJlZj0iaHR0cHM6Ly90eW1wYW51cy5uZXQvY29kcm9wcy8/cD0zNDg5NyIKICAgICAgICAgICAgICAgICAgICB0aXRsZT0iQmFjayB0byB0aGUgYXJ0aWNsZSIKICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzPSJpY29uIGljb24tLWRyb3AiPgogICAgICAgICAgICAgICAgICAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWRyb3AiPjwvdXNlPgogICAgICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGgxIGNsYXNzPSJjb2Ryb3BzLWhlYWRlcl9fdGl0bGUiPkdyaWQgTGF5b3V0IHdpdGggTW90aW9uIEhvdmVyIEVmZmVjdCBhbmQgQ29udGVudCBQcmV2aWV3PC9oMT4KICAgICAgICAgICAgPGEgY2xhc3M9ImdpdGh1YiIgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2NvZHJvcHMvR3JpZExheW91dE1vdGlvbi8iIHRpdGxlPSJGaW5kIHRoaXMgcHJvamVjdCBvbiBHaXRIdWIiPgogICAgICAgICAgICAgICAgPHN2ZyBjbGFzcz0iaWNvbiBpY29uLS1naXRodWIiPgogICAgICAgICAgICAgICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI2ljb24tZ2l0aHViIj48L3VzZT4KICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICA8L2E+CiAgICAgICAgPC9oZWFkZXI+CiAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGVudCI+CiAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUgbS1iLW1kIj4KICAgICAgICAgICAgQm9vayBTaGVsZgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImxpbmtzIj4KICAgICAgICAgICAgPGEgaHJlZj0iIyI+SG9tZTwvYT4KICAgICAgICAgICAgPGEgaHJlZj0iIyI+TWFuZ2E8L2E+CiAgICAgICAgICAgIDxhIGhyZWY9IiMiPk5vdmVsczwvYT4KICAgICAgICAgICAgPGEgaHJlZj0iIyI+TXlwYWdlPC9hPgogICAgICAgICAgICA8YSBocmVmPSIjIj5Db250YWN0PC9hPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9Int7IGFwcCgpLT5nZXRMb2NhbGUoKSB9fSI+CjxoZWFkPgo8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+CjxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iSUU9ZWRnZSI+CjxtZXRhCiAgICBuYW1lPSJ2aWV3cG9ydCIKICAgIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCIKPgo8dGl0bGU+e3sgY29uZmlnKCdhcHAubmFtZScsICdMYXJhdmVsJykgfX08L3RpdGxlPgo8IS0tIEZvbnRzIC0tPgo8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9UmFsZXdheToxMDAsNjAwIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIj4KPCEtLSBTdHlsZXMgLS0+CjxzdHlsZT4KICAgIGh0bWwsIGJvZHkgewogICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmY7CiAgICAgICAgY29sb3I6ICM2MzZiNmY7CiAgICAgICAgZm9udC1mYW1pbHk6ICdSYWxld2F5Jywgc2Fucy1zZXJpZjsKICAgICAgICBmb250LXdlaWdodDogMTAwOwogICAgICAgIGhlaWdodDogMTAwdmg7CiAgICAgICAgbWFyZ2luOiAwOwogICAgfQoKICAgIC5mdWxsLWhlaWdodCB7CiAgICAgICAgaGVpZ2h0OiAxMDB2aDsKICAgIH0KCiAgICAuZmxleC1jZW50ZXIgewogICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgIH0KCiAgICAucG9zaXRpb24tcmVmIHsKICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICB9CgogICAgLnRvcC1yaWdodCB7CiAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgIHJpZ2h0OiAxMHB4OwogICAgICAgIHRvcDogMThweDsKICAgIH0KCiAgICAuY29udGVudCB7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgfQoKICAgIC50aXRsZSB7CiAgICAgICAgZm9udC1zaXplOiA4NHB4OwogICAgfQoKICAgIC5saW5rcyA+IGEgewogICAgICAgIGNvbG9yOiAjNjM2YjZmOwogICAgICAgIHBhZGRpbmc6IDAgMjVweDsKICAgICAgICBmb250LXNpemU6IDEycHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IDYwMDsKICAgICAgICBsZXR0ZXItc3BhY2luZzogLjFyZW07CiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7CiAgICB9CgogICAgLm0tYi1tZCB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMzBweDsKICAgIH0KPC9zdHlsZT4KPC9oZWFkPgo8Ym9keT4KPGRpdiBjbGFzcz0iZmxleC1jZW50ZXIgcG9zaXRpb24tcmVmIGZ1bGwtaGVpZ2h0Ij4KICAgIEBpZiAoUm91dGU6OmhhcygnbG9naW4nKSkKICAgICAgICA8ZGl2IGNsYXNzPSJ0b3AtcmlnaHQgbGlua3MiPgogICAgICAgICAgICBAYXV0aAogICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgdXJsKCcvaG9tZScpIH19Ij5Ib21lPC9hPgogICAgICAgICAgICBAZWxzZQogICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2xvZ2luJykgfX0iPkxvZ2luPC9hPgogICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ3JlZ2lzdGVyJykgfX0iPlJlZ2lzdGVyPC9hPgogICAgICAgICAgICBAZW5kYXV0aAogICAgICAgIDwvZGl2PgogICAgQGVuZGlmCiAgICA8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSBtLWItbWQiPgogICAgICAgICAgICBCb29rIFNoZWxmCiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0ibGlua3MiPgogICAgICAgICAgICA8YSBocmVmPSIjIj5Ib21lPC9hPgogICAgICAgICAgICA8YSBocmVmPSIjIj5NYW5nYTwvYT4KICAgICAgICAgICAgPGEgaHJlZj0iIyI+Tm92ZWxzPC9hPgogICAgICAgICAgICA8YSBocmVmPSIjIj5NeXBhZ2U8L2E+CiAgICAgICAgICAgIDxhIGhyZWY9IiMiPkNvbnRhY3Q8L2E+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KPC9kaXY+CjwvYm9keT4=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDx0aXRsZT5Eb2N1bWVudDwvdGl0bGU+Cg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>icon-cross</last-search>
+      <last-offset />
+      <last-pattern>icon-cross</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>icon-close</entry>
+        <entry>icon-sross</entry>
+        <entry>icon-cross</entry>
+      </history-search>
     </history>
     <shortcut-conflicts />
     <editor>
