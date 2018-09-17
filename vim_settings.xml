@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1532258086760">
@@ -12,7 +12,6 @@
         <mark key="]" line="31" column="13" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/Google Drive/WordPress Project/new_blog/wordpress/wp-content/themes/devnote/header.php" timestamp="1532244554316" />
       <file name="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/_welcome.blade.php" timestamp="1532256687753">
         <mark key="'" line="16" column="7" />
         <mark key="[" line="16" column="7" />
@@ -117,6 +116,9 @@
         <entry>icon-sross</entry>
         <entry>icon-cross</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
     <editor>
