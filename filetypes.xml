@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
