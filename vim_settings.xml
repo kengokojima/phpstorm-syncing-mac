@@ -15,11 +15,20 @@
         <mark key="]" line="31" column="13" />
         <mark key="." line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/app/Exceptions/Handler.php" timestamp="1538955830599">
+        <mark key="[" line="52" column="5" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/_welcome.blade.php" timestamp="1532256687753">
         <mark key="'" line="16" column="7" />
         <mark key="[" line="16" column="7" />
         <mark key="]" line="67" column="15" />
         <mark key="." line="16" column="1120" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/composer.json" timestamp="1538913958763">
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="57" column="39" />
+        <mark key="^" line="57" column="39" />
+        <mark key="." line="57" column="39" />
       </file>
       <file name="$USER_HOME$/Google Drive/Development/LP/aquos-r2/gulpfile.js" timestamp="1532171158105">
         <mark key="[" line="79" column="53" />
@@ -38,12 +47,6 @@
         <mark key="]" line="3178" column="0" />
         <mark key="^" line="1503" column="4" />
         <mark key="." line="3178" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/composer.json" timestamp="1538913958763">
-        <mark key="[" line="53" column="9" />
-        <mark key="]" line="57" column="39" />
-        <mark key="^" line="57" column="39" />
-        <mark key="." line="57" column="39" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" timestamp="1532257916214">
         <mark key="'" line="74" column="3" />
