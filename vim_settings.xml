@@ -3,28 +3,72 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/laradock/.env" timestamp="1543023517023">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="14" />
+        <mark key="." line="37" column="14" />
+        <mark key="^" line="37" column="14" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/routes/web.php" timestamp="1543023782869" />
+      <file name="/PHP Console" timestamp="1543023797760">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/pic_project/.gitignore" timestamp="1542444340383">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/app/Http/Controllers/WelcomeController.php" timestamp="1538961125358">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/pic_project/index.php" timestamp="1542505816156">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/app/Providers/AppServiceProvider.php" timestamp="1538913443942">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="26" column="99" />
+        <mark key="^" line="26" column="99" />
+        <mark key="." line="26" column="99" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/_ide_helper.php" timestamp="1538914989141">
+        <mark key="[" line="3178" column="0" />
+        <mark key="]" line="3178" column="0" />
+        <mark key="^" line="1503" column="4" />
+        <mark key="." line="3178" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/laradock/.env" timestamp="1543023427363">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/laradock/php-fpm/xdebug.ini" timestamp="1543023105539">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/resources/views/home.blade.php" timestamp="1538962404621">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+      </file>
       <file name="/Dummy.txt" timestamp="1543021849487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/config/app.php" timestamp="1538913211968">
         <mark key="[" line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/index.html" timestamp="1532257864917">
-        <mark key="'" line="14" column="8" />
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="31" column="13" />
-        <mark key="." line="27" column="12" />
-      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/app/Exceptions/Handler.php" timestamp="1538956270617">
         <mark key="[" line="52" column="4" />
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/_welcome.blade.php" timestamp="1532256687753">
-        <mark key="'" line="16" column="7" />
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="67" column="15" />
-        <mark key="." line="16" column="1120" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/database/migrations/2018_10_08_013655_create_tasks_table.php" timestamp="1538965321075">
         <mark key="[" line="16" column="52" />
@@ -38,6 +82,7 @@
         <mark key="^" line="57" column="39" />
         <mark key="." line="57" column="39" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/Controller.php" timestamp="1543023884166" />
       <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/routes/web.php" timestamp="1538958975757">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="13" column="43" />
@@ -60,28 +105,17 @@
         <mark key="[" line="8" column="4" />
         <mark key="]" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/pic_project/.gitignore" timestamp="1542444340383">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/pic_project/.vscode/launch.json" timestamp="1542444243264">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="4" />
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/app/Http/Controllers/WelcomeController.php" timestamp="1538961125358">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/pic_project/index.php" timestamp="1542505816156">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/laradock/workspace/crontab/laradock" timestamp="1543023224909">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Development/LP/aquos-r2/gulpfile.js" timestamp="1532171158105">
         <mark key="[" line="79" column="53" />
@@ -89,36 +123,11 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="70" column="25" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/app/Providers/AppServiceProvider.php" timestamp="1538913443942">
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="26" column="99" />
-        <mark key="^" line="26" column="99" />
-        <mark key="." line="26" column="99" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/_ide_helper.php" timestamp="1538914989141">
-        <mark key="[" line="3178" column="0" />
-        <mark key="]" line="3178" column="0" />
-        <mark key="^" line="1503" column="4" />
-        <mark key="." line="3178" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/laradock/.env" timestamp="1543021957769">
-        <mark key="[" line="174" column="21" />
-        <mark key="]" line="174" column="24" />
-        <mark key="^" line="174" column="24" />
-        <mark key="." line="174" column="24" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/resources/views/home.blade.php" timestamp="1538962404621">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="20" column="22" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" timestamp="1532257916214">
-        <mark key="'" line="74" column="3" />
-        <mark key="[" line="74" column="4" />
-        <mark key="]" line="74" column="4" />
-        <mark key="^" line="73" column="0" />
-        <mark key="." line="74" column="4" />
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/laradock/workspace/xdebug.ini" timestamp="1543023183925">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -147,7 +156,7 @@
         <text encoding="base64">LyoqCiAgICAgKiBDcmVhdGUgYSBuZXcgY29udHJvbGxlciBpbnN0YW5jZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAkdGhpcy0+bWlkZGxld2FyZSgnYXV0aCcpOwogICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>80</text>
+        <text>1</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">PHN2ZyBjbGFzcz0iaGlkZGVuIj4KCQkJPHN5bWJvbCBpZD0iaWNvbi1hcnJvdyIgdmlld0JveD0iMCAwIDI0IDI0Ij4KCQkJCTx0aXRsZT5hcnJvdzwvdGl0bGU+CgkJCQk8cG9seWdvbiBwb2ludHM9IjYuMywxMi44IDIwLjksMTIuOCAyMC45LDExLjIgNi4zLDExLjIgMTAuMiw3LjIgOSw2IDMuMSwxMiA5LDE4IDEwLjIsMTYuOCAiLz4KCQkJPC9zeW1ib2w+CgkJCTxzeW1ib2wgaWQ9Imljb24tZHJvcCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KCQkJCTx0aXRsZT5kcm9wPC90aXRsZT4KCQkJCTxwYXRoIGQ9Ik0xMiwyMWMtMy42LDAtNi42LTMtNi42LTYuNkM1LjQsMTEsMTAuOCw0LDExLjQsMy4yQzExLjYsMy4xLDExLjgsMywxMiwzczAuNCwwLjEsMC42LDAuM2MwLjYsMC44LDYuMSw3LjgsNi4xLDExLjJDMTguNiwxOC4xLDE1LjYsMjEsMTIsMjF6TTEyLDQuOGMtMS44LDIuNC01LjIsNy40LTUuMiw5LjZjMCwyLjksMi4zLDUuMiw1LjIsNS4yczUuMi0yLjMsNS4yLTUuMkMxNy4yLDEyLjIsMTMuOCw3LjMsMTIsNC44eiIvPjxwYXRoIGQ9Ik0xMiwxOC4yYy0wLjQsMC0wLjctMC4zLTAuNy0wLjdzMC4zLTAuNywwLjctMC43YzEuMywwLDIuNC0xLjEsMi40LTIuNGMwLTAuNCwwLjMtMC43LDAuNy0wLjdjMC40LDAsMC43LDAuMywwLjcsMC43QzE1LjgsMTYuNSwxNC4xLDE4LjIsMTIsMTguMnoiLz4KCQkJPC9zeW1ib2w+CgkJCTxzdmcgaWQ9Imljb24tZ2l0aHViIiB2aWV3Qm94PSIwIDAgMzMgMzMiPgoJCQkJPHRpdGxlPmdpdGh1YjwvdGl0bGU+CgkJCQk8cGF0aCBkPSJNMTYuNjA4LjQ1NUM3LjYxNC40NTUuMzIgNy43NDguMzIgMTYuNzQ1YzAgNy4xOTcgNC42NjcgMTMuMzAyIDExLjE0IDE1LjQ1Ni44MTUuMTUgMS4xMTItLjM1MyAxLjExMi0uNzg1IDAtLjM4Ni0uMDE0LTEuNDExLS4wMjItMi43Ny00LjUzMS45ODQtNS40ODctMi4xODQtNS40ODctMi4xODQtLjc0MS0xLjg4Mi0xLjgwOS0yLjM4My0xLjgwOS0yLjM4My0xLjQ3OS0xLjAxLjExMi0uOTkuMTEyLS45OSAxLjYzNS4xMTUgMi40OTUgMS42NzkgMi40OTUgMS42NzkgMS40NTMgMi40ODkgMy44MTMgMS43NyA0Ljc0MSAxLjM1My4xNDgtMS4wNTIuNTY5LTEuNzcgMS4wMzQtMi4xNzctMy42MTctLjQxMS03LjQyLTEuODA5LTcuNDItOC4wNTEgMC0xLjc3OC42MzUtMy4yMzMgMS42NzctNC4zNzEtLjE2OC0uNDEyLS43MjctMi4wNjkuMTYtNC4zMTEgMCAwIDEuMzY3LS40MzggNC40NzkgMS42N2ExNS42MDIgMTUuNjAyIDAgMCAxIDQuMDc4LS41NDkgMTUuNjIgMTUuNjIgMCAwIDEgNC4wNzguNTQ5YzMuMTEtMi4xMDggNC40NzUtMS42NyA0LjQ3NS0xLjY3Ljg4OSAyLjI0Mi4zMyAzLjg5OS4xNjMgNC4zMTFDMjYuMzcgMTIuNjYgMjcgMTQuMTE1IDI3IDE1Ljg5M2MwIDYuMjU4LTMuODA5IDcuNjM1LTcuNDM3IDguMDM4LjU4NC41MDMgMS4xMDUgMS40OTcgMS4xMDUgMy4wMTcgMCAyLjE3Ny0uMDIgMy45MzQtLjAyIDQuNDY4IDAgLjQzNi4yOTQuOTQzIDEuMTIuNzg0IDYuNDY4LTIuMTU5IDExLjEzMS04LjI2IDExLjEzMS0xNS40NTUgMC04Ljk5Ny03LjI5NC0xNi4yOS0xNi4yOTEtMTYuMjkiPjwvcGF0aD4KCQkJPC9zdmc+CgkJCTxzeW1ib2wgaWQ9Imljb24tY3Jvc3MiIHZpZXdCb3g9IjAgMCAyNCAyMyI+CgkJCQk8dGl0bGU+Y3Jvc3M8L3RpdGxlPgoJCQkJPHBhdGggZD0iTTIzLjg2NSAzLjY3N2MuMTk3LS4zODMuMTY0LS44MTgtLjAwOC0xLjE4LjA0OC0uNDEtLjA2LS44MjctLjQ0OC0xLjE0N0wyMi4zMjMuNDU3Yy0uNjM2LS41MjQtMS42MzItLjY4OS0yLjI1IDBhMTU1LjM0OCAxNTUuMzQ4IDAgMCAxLTguNzk3IDkuMDAxQzkuMDExIDcuMzQyIDYuNzIgNS4yNTUgNC40NDMgMy4xNjVjLS44LS43MzQtMS45NTYtLjUwMy0yLjQ1OC4zN0MxLjI1MyAzLjkuNjU5IDQuMzc0LjE2OCA1LjE4MmMtLjIzMy4zODYtLjIxNS44NzIgMCAxLjI1OCAxLjQ3IDIuNjM1IDQuMzEgNC45NTEgNi42NDYgNy4wODMtLjMxMy4yOC0uNjIzLjU2Mi0uOTQyLjgzNi0zLjE0NiAyLjcwMi01LjI2OCA0LjQxNi0xLjMzMSA3LjE4Ny4wNTMuMDM3LjEwNy4wMjkuMTYxLjA1LjA3Ni4wMzYuMTQ4LjA2LjIzMi4wNzQuMDI2IDAgLjA1LjAwNS4wNzUuMDAzLjA4Mi4wMDcuMTYuMDI3LjI0My4wMTEgMi4xMTctLjQxNSA0LjA4NS0yLjA3NCA1Ljg3Mi0zLjkgMS43NCAxLjcxNSAzLjU5MiAzLjM1MyA1LjYzIDQuMzI1LjQ4NS4yMzIgMS4wNjMuMDk3IDEuNDM2LS4yMjcuNjI2LjA0NyAxLjE5Ny0uMzQyIDEuNDg0LS45MDEuMDQyLS4wMjYuMDctLjA0MS4xMTYtLjA3LjkxLS41NjkuOTkzLTEuNzAxLjMyLTIuNDgyLTEuNTIyLTEuNzYyLTMuMTM4LTMuNDM4LTQuNzg3LTUuMDg0IDIuOTY4LTIuOSA2LjY3NC02LjAyNyA4LjU0Mi05LjY2N3oiLz4KCQkJPC9zeW1ib2w+CgkJPC9zdmc+</text>
@@ -159,7 +168,7 @@
         <text encoding="base64">PGRpdiBjbGFzcz0iZmxleC1jZW50ZXIgcG9zaXRpb24tcmVmIGZ1bGwtaGVpZ2h0Ij4KICAgICAgICBAaWYgKFJvdXRlOjpoYXMoJ2xvZ2luJykpCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InRvcC1yaWdodCBsaW5rcyI+CiAgICAgICAgICAgICAgICBAYXV0aAogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IHVybCgnL2hvbWUnKSB9fSI+SG9tZTwvYT4KICAgICAgICAgICAgICAgIEBlbHNlCiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2xvZ2luJykgfX0iPkxvZ2luPC9hPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IHJvdXRlKCdyZWdpc3RlcicpIH19Ij5SZWdpc3RlcjwvYT4KICAgICAgICAgICAgICAgIEBlbmRhdXRoCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIEBlbmRpZgoKICAgICAgICA8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUgbS1iLW1kIj4KICAgICAgICAgICAgICAgIEJvb2sgU2hlbGYKICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJsaW5rcyI+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIj5Ib21lPC9hPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iIyI+TWFuZ2E8L2E+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIj5Ob3ZlbHM8L2E+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIj5NeXBhZ2U8L2E+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIj5Db250YWN0PC9hPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>80</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>icon-cross</text>
@@ -167,29 +176,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgIDwhLS0gVmVuZG9yIFN0eWxlcyAtLT4KICAgIDwhLS0gPGxpbmsgaHJlZj0iY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPiAtLT4KICAgIDwhLS0gPGxpbmsgaHJlZj0iY3NzL2FuaW1hdGUuY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPiAtLT4KICAgIDwhLS0gPGxpbmsgaHJlZj0iY3NzL3RoZW1pZnkuY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPiAtLT4KICAgIDwhLS0gPGxpbmsgaHJlZj0iY3NzL3Njcm9sbGJhci5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPiAtLT4KICAgIDwhLS0gPGxpbmsgaHJlZj0iY3NzL3N3aXBlci5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPiAtLT4KICAgIDwhLS0gPGxpbmsgaHJlZj0iY3NzL2N1YmVwb3J0Zm9saW8ubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgLz4gLS0+</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kYXRlVGltZSgndXBkYXRlZF9hdCcpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdjcmVhdGVkJyk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpc19hY3RpdmUnKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCd1c2VyX2lkJyktPmRlZmF1bHQgKCcnKTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+bG9yZW0gaXBzdW08L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCd1c2VyX2lkJyktPmRlZmF1bHQgKCcnKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+bG9yZW0gaXBzdW08L2xpPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+bG9yZW0gaXBzdW08L2xpPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
