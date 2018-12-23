@@ -33,12 +33,12 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/IndexIllustrationController.php" timestamp="1545527296563">
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/IndexIllustrationController.php" timestamp="1545529522667">
         <mark key="'" line="19" column="82" />
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-        <mark key="^" line="19" column="44" />
+        <mark key="[" line="19" column="92" />
+        <mark key="]" line="19" column="91" />
+        <mark key="." line="19" column="91" />
+        <mark key="^" line="19" column="91" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_08_160102_create_tags_table.php" timestamp="1544252616170">
         <mark key="[" line="18" column="50" />
@@ -144,6 +144,12 @@
         <mark key="^" line="18" column="64" />
         <mark key="." line="18" column="64" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_23_103442_add_column_pictures_table.php" timestamp="1545528942452">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="86" />
+        <mark key="^" line="16" column="86" />
+        <mark key="." line="16" column="86" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/laradock/workspace/crontab/laradock" timestamp="1543023224909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -213,7 +219,7 @@
       <file name="/post_pick.comments [post_pick@localhost]" timestamp="1545527196889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1545527298350">
+      <file name="/PHP Console" timestamp="1545529606532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1544935761341">
@@ -255,7 +261,7 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
       </file>
-      <file name="/dummy.sql" timestamp="1545527307620">
+      <file name="/dummy.sql" timestamp="1545528915190">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1545472005341">
@@ -286,12 +292,12 @@
         <mark key="^" line="23" column="27" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/illustration/index.blade.php" timestamp="1544968074791">
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/illustration/index.blade.php" timestamp="1545529652888">
         <mark key="'" line="2" column="10" />
-        <mark key="[" line="34" column="55" />
-        <mark key="]" line="34" column="54" />
-        <mark key="." line="34" column="54" />
-        <mark key="^" line="34" column="54" />
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/database/migrations/2018_10_08_023253_fix_column_is_active_from_tasks.php" timestamp="1538966181036">
         <mark key="[" line="16" column="38" />
