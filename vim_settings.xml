@@ -9,12 +9,6 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_30_090114_add_column_pictures_table.php" timestamp="1546128145002">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="90" />
-        <mark key="^" line="16" column="90" />
-        <mark key="." line="16" column="90" />
-      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/ViewsCountController.php" timestamp="1545548726927">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="16" column="29" />
@@ -23,6 +17,80 @@
       </file>
       <file name="/a.dummy" timestamp="1544260230006">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/post_pick.users [post_pick@localhost]" timestamp="1546309155328">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/post_pick.likes [post_pick@localhost]" timestamp="1546127124491">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/layouts/footer.blade.php" timestamp="1547368453043">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="/post_pick.migrations [post_pick@localhost]" timestamp="1545538680229">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/config/app.php" timestamp="1538913211968">
+        <mark key="[" line="163" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/ProfileChangeController.php" timestamp="1546133289324">
+        <mark key="'" line="39" column="12" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="66" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+      </file>
+      <file name="/post_pick.pictures [post_pick@localhost]" timestamp="1546225389252">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/layouts/app.blade.php" timestamp="1547370161712">
+        <mark key="'" line="36" column="53" />
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_23_132205_create_views_count_table.php" timestamp="1545539576363">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="55" />
+        <mark key="." line="19" column="55" />
+        <mark key="^" line="19" column="55" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/Auth/RegisterController.php" timestamp="1546309169468">
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="70" column="29" />
+        <mark key="." line="70" column="29" />
+        <mark key="^" line="70" column="29" />
+      </file>
+      <file name="/post_pick.tags [post_pick@localhost]" timestamp="1546134122263">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/information.blade.php" timestamp="1547371522662">
+        <mark key="[" line="1" column="78" />
+        <mark key="]" line="1" column="94" />
+        <mark key="^" line="1" column="94" />
+        <mark key="." line="1" column="94" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_23_103442_add_column_pictures_table.php" timestamp="1545538577536">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="49" />
+        <mark key="^" line="28" column="49" />
+        <mark key="." line="28" column="49" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_23_143452_change_name_views_count_table.php" timestamp="1545543351193">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="45" />
+        <mark key="^" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_30_090114_add_column_pictures_table.php" timestamp="1546128145002">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="90" />
+        <mark key="^" line="16" column="90" />
+        <mark key="." line="16" column="90" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/top.blade.php" timestamp="1544870151753">
         <mark key="[" line="6" column="16" />
@@ -35,12 +103,6 @@
         <mark key="]" line="10" column="79" />
         <mark key="^" line="10" column="76" />
         <mark key="." line="10" column="76" />
-      </file>
-      <file name="/post_pick.users [post_pick@localhost]" timestamp="1546309155328">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/post_pick.likes [post_pick@localhost]" timestamp="1546127124491">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/post_pick.comments [post_pick@localhost]" timestamp="1545527196889">
         <mark key="[" line="0" column="0" />
@@ -57,21 +119,12 @@
       <file name="/PHP Console" timestamp="1545545258895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/layouts/footer.blade.php" timestamp="1547368453043">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="6" column="68" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/illustration/edit.blade.php" timestamp="1546134646698">
         <mark key="'" line="8" column="31" />
         <mark key="[" line="35" column="43" />
         <mark key="]" line="35" column="43" />
         <mark key="." line="35" column="43" />
         <mark key="^" line="35" column="43" />
-      </file>
-      <file name="/post_pick.migrations [post_pick@localhost]" timestamp="1545538680229">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1544935761341">
         <mark key="[" line="0" column="26" />
@@ -91,20 +144,7 @@
       <file name="/dummy.sql" timestamp="1546309272878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/config/app.php" timestamp="1538913211968">
-        <mark key="[" line="163" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/ProfileChangeController.php" timestamp="1546133289324">
-        <mark key="'" line="39" column="12" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="66" />
-        <mark key="." line="48" column="20" />
-        <mark key="^" line="48" column="20" />
-      </file>
       <file name="/Dummy.txt" timestamp="1547368773128">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/post_pick.pictures [post_pick@localhost]" timestamp="1546225389252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/post_pick.views_counts [post_pick@localhost]" timestamp="1546309263136">
@@ -117,34 +157,12 @@
         <mark key="^" line="108" column="4" />
         <mark key="." line="108" column="4" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/layouts/app.blade.php" timestamp="1547370161712">
-        <mark key="'" line="36" column="53" />
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-      </file>
       <file name="/post_pick.views_count [post_pick@localhost]" timestamp="1545542520010">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_23_132205_create_views_count_table.php" timestamp="1545539576363">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="55" />
-        <mark key="." line="19" column="55" />
-        <mark key="^" line="19" column="55" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/Auth/RegisterController.php" timestamp="1546309169468">
-        <mark key="[" line="70" column="12" />
-        <mark key="]" line="70" column="29" />
-        <mark key="." line="70" column="29" />
-        <mark key="^" line="70" column="29" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/_index.php" timestamp="1547369469807">
         <mark key="[" line="628" column="4" />
         <mark key="]" line="647" column="47" />
-      </file>
-      <file name="/post_pick.tags [post_pick@localhost]" timestamp="1546134122263">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/ViewsCount.php" timestamp="1545543530383">
         <mark key="[" line="20" column="0" />
@@ -189,18 +207,6 @@
         <mark key="]" line="15" column="37" />
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_23_103442_add_column_pictures_table.php" timestamp="1545538577536">
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="49" />
-        <mark key="^" line="28" column="49" />
-        <mark key="." line="28" column="49" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_23_143452_change_name_views_count_table.php" timestamp="1545543351193">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-        <mark key="^" line="16" column="45" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/DeleteImageController.php" timestamp="1546225667558">
         <mark key="[" line="19" column="66" />
@@ -335,8 +341,8 @@
       </history-search>
       <history-cmd>
         <entry>source</entry>
-        <entry>action Find</entry>
         <entry>action AceAction</entry>
+        <entry>action Find</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
