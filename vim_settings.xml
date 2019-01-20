@@ -74,6 +74,12 @@
       <file name="/post_pick.tags [post_pick@localhost]" timestamp="1546134122263">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/.gitignore" timestamp="1547973437326">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="106" column="6" />
+        <mark key="^" line="106" column="6" />
+        <mark key="." line="106" column="6" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/information.blade.php" timestamp="1547371522662">
         <mark key="[" line="1" column="78" />
         <mark key="]" line="1" column="94" />
@@ -162,7 +168,7 @@
       <file name="/dummy.sql" timestamp="1547378147770">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547379182145">
+      <file name="/Dummy.txt" timestamp="1547973463594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/post_pick.views_counts [post_pick@localhost]" timestamp="1547377924296">
@@ -175,7 +181,6 @@
         <mark key="^" line="39" column="76" />
         <mark key="." line="39" column="76" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/public/js/app.js" timestamp="1547376571447" />
       <file name="/post_pick.views_count [post_pick@localhost]" timestamp="1545542520010">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,7 +254,6 @@
         <mark key="." line="36" column="81" />
         <mark key="^" line="36" column="81" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/public/js/components/swiper.js" timestamp="1547372555658" />
     </filemarks>
     <jumps>
       <jump line="109" column="3" filename="$USER_HOME$/Google Drive/Laravel Project/book_shelf/resources/views/welcome.blade.php" />
