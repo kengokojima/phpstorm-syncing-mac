@@ -135,7 +135,6 @@
         <mark key="^" line="16" column="90" />
         <mark key="." line="16" column="90" />
       </file>
-      <file name="/app.blade.php" timestamp="1547981856741" />
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/top.blade.php" timestamp="1544870151753">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="17" column="26" />
@@ -215,6 +214,12 @@
         <mark key="]" line="26" column="23" />
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/WordPress Project/new_blog/wordpress/wp-config.php" timestamp="1548456530554">
+        <mark key="[" line="45" column="2" />
+        <mark key="]" line="45" column="1" />
+        <mark key="^" line="45" column="1" />
+        <mark key="." line="45" column="1" />
       </file>
       <file name="/dummy.sql" timestamp="1547981183695">
         <mark key="[" line="0" column="0" />
