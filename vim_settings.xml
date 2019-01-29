@@ -93,6 +93,12 @@
         <mark key="." line="19" column="55" />
         <mark key="^" line="19" column="55" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/larastock/src/server.php" timestamp="1548772151109">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/Auth/RegisterController.php" timestamp="1546309169468">
         <mark key="[" line="70" column="12" />
         <mark key="]" line="70" column="29" />
@@ -238,7 +244,7 @@
       <file name="/dummy.sql" timestamp="1547981183695">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548769305677">
+      <file name="/Dummy.txt" timestamp="1548772448266">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/post_pick.views_counts [post_pick@localhost]" timestamp="1547978931518">
