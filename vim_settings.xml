@@ -69,6 +69,12 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Development/larastock/laradock/.env" timestamp="1548767590686">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/new_application/src/config/app.php" timestamp="1538913211968">
         <mark key="[" line="163" column="0" />
       </file>
@@ -89,14 +95,12 @@
         <mark key="." line="26" column="29" />
         <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Google Drive/WordPress Project/new_blog/wordpress/wp-content/themes/devnote/index.php" timestamp="1548498222765" />
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_23_132205_create_views_count_table.php" timestamp="1545539576363">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="55" />
         <mark key="." line="19" column="55" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/blog_contents.php" timestamp="1548569042004" />
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/Auth/RegisterController.php" timestamp="1546309169468">
         <mark key="[" line="70" column="12" />
         <mark key="]" line="70" column="29" />
@@ -336,7 +340,6 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/Google Drive/WordPress Project/new_blog/wordpress/wp-includes/script-loader.php" timestamp="1548457719092" />
       <file name="$USER_HOME$/Google Drive/WordPress Project/new_blog/wordpress/wp-content/themes/devnote/src/sass/_blog.scss" timestamp="1548465402750">
         <mark key="[" line="652" column="0" />
         <mark key="]" line="652" column="0" />
