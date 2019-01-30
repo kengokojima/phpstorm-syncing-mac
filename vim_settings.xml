@@ -209,6 +209,12 @@
       <file name="/PHP Console" timestamp="1545545258895">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Laravel Project/larastock/src/database/migrations/2019_01_30_125029_create_memos_table.php" timestamp="1548853894314">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="18" column="61" />
+        <mark key="^" line="18" column="61" />
+        <mark key="." line="18" column="61" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/auth/passwords/email.blade.php" timestamp="1547980209345">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="26" />
@@ -251,7 +257,7 @@
       <file name="/dummy.sql" timestamp="1547981183695">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548851941876">
+      <file name="/Dummy.txt" timestamp="1548854105136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/post_pick.views_counts [post_pick@localhost]" timestamp="1547978931518">
