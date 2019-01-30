@@ -32,6 +32,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="simplemde" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_simplemde_latest_simplemde.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_simplemde_latest_simplemde.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="three" type="javaScript">
       <properties>
         <sourceFilesUrls>
