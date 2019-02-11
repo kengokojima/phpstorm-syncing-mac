@@ -42,11 +42,11 @@
       <file name="/post_pick.likes [post_pick@localhost]" timestamp="1546127124491">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/js/app.js" timestamp="1549791458967">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="43" column="15" />
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/js/app.js" timestamp="1549860971377">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="45" column="15" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/larastock/src/app/Http/Controllers/IndexMemoController.php" timestamp="1549065620520">
         <mark key="[" line="17" column="45" />
