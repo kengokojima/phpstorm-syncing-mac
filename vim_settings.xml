@@ -24,6 +24,9 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Development/PostPick_front/index.html" timestamp="1551513639126">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/sass/app.scss" timestamp="1551502641596">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="10" column="39" />
@@ -82,6 +85,12 @@
         <mark key="]" line="108" column="9" />
         <mark key="^" line="108" column="9" />
         <mark key="." line="108" column="9" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Development/PostPick_front/.gitignore" timestamp="1551513485898">
+        <mark key="[" line="425" column="0" />
+        <mark key="]" line="425" column="7" />
+        <mark key="^" line="425" column="7" />
+        <mark key="." line="425" column="7" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/database/migrations/2018_12_23_103442_add_column_pictures_table.php" timestamp="1545538577536">
         <mark key="[" line="28" column="12" />
@@ -199,7 +208,6 @@
       <file name="/post_pick.views_counts [post_pick@localhost]" timestamp="1550290523969">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/layouts/header.blade.php" timestamp="1551501885964" />
       <file name="/post_pick.views_count [post_pick@localhost]" timestamp="1545542520010">
         <mark key="[" line="0" column="0" />
       </file>
@@ -456,7 +464,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551502128340">
+      <file name="/Dummy.txt" timestamp="1551513533987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
