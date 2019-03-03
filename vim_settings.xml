@@ -27,11 +27,11 @@
       <file name="$USER_HOME$/Google Drive/Development/PostPick_front/index.html" timestamp="1551513639126">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/sass/app.scss" timestamp="1551516229917">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/sass/app.scss" timestamp="1551583244001">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/post_pick.users [post_pick@localhost]" timestamp="1550296674119">
         <mark key="[" line="0" column="0" />
@@ -127,11 +127,6 @@
         <mark key="]" line="13" column="14" />
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/js/components/cube.vue" timestamp="1550376347410">
-        <mark key="]" line="40" column="4" />
-        <mark key="." line="40" column="4" />
-        <mark key="^" line="40" column="4" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/larastock/src/app/Http/Controllers/Memo/UpdateMemoController.php" timestamp="1549461641575">
         <mark key="[" line="33" column="26" />
@@ -292,7 +287,7 @@
         <mark key="." line="17" column="91" />
         <mark key="^" line="17" column="91" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/layouts/footer.blade.php" timestamp="1547368453043">
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/layouts/footer.blade.php" timestamp="1551583215082">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="6" column="68" />
@@ -565,7 +560,7 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/layouts/app_lower.blade.php" timestamp="1549855196251">
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/layouts/app_lower.blade.php" timestamp="1551583435617">
         <mark key="[" line="17" column="85" />
         <mark key="]" line="17" column="84" />
         <mark key="^" line="17" column="84" />
@@ -638,6 +633,7 @@
       <jump line="1064" column="38" filename="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/js/cubeportfolio/cubeportfolio.js" />
       <jump line="1496" column="67" filename="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/js/cubeportfolio/cubeportfolio.js" />
       <jump line="97" column="58" filename="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/js/components/Cube.vue" />
+      <jump line="8039" column="30" filename="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/public/css/global.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
