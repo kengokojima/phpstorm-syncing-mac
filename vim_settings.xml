@@ -80,11 +80,11 @@
       <file name="/post_pick.tags [post_pick@localhost]" timestamp="1550372343630">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/.gitignore" timestamp="1550291843400">
+      <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/.gitignore" timestamp="1551584197163">
         <mark key="[" line="108" column="10" />
-        <mark key="]" line="108" column="9" />
-        <mark key="^" line="108" column="9" />
-        <mark key="." line="108" column="9" />
+        <mark key="]" line="108" column="12" />
+        <mark key="^" line="108" column="12" />
+        <mark key="." line="108" column="12" />
       </file>
       <file name="$USER_HOME$/Google Drive/Development/PostPick_front/.gitignore" timestamp="1551513485898">
         <mark key="[" line="425" column="0" />
@@ -474,7 +474,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551516741628">
+      <file name="/Dummy.txt" timestamp="1551584279795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
