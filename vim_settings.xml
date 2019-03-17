@@ -160,7 +160,6 @@
       <file name="/larastock.urls [larastock@localhost]" timestamp="1549707423083">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/nuxt_practice/my-portfolio-sample/package.json" timestamp="1551938094256" />
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/resources/views/top.blade.php" timestamp="1544870151753">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="17" column="26" />
@@ -298,6 +297,9 @@
         <mark key="]" line="15" column="37" />
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
+      </file>
+      <file name="/larastock.users [larastock@localhost]" timestamp="1552804586729">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Laravel Project/PostPick/src/app/Http/Controllers/IndexController.php" timestamp="1550397374351">
         <mark key="[" line="26" column="38" />
@@ -491,7 +493,6 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Google Drive/package.json" timestamp="1552118438069" />
       <file name="/post_pick.comments [post_pick@localhost]" timestamp="1545527196889">
         <mark key="[" line="0" column="0" />
       </file>
@@ -528,7 +529,7 @@
         <mark key="^" line="45" column="1" />
         <mark key="." line="45" column="1" />
       </file>
-      <file name="/dummy.sql" timestamp="1552721004351">
+      <file name="/dummy.sql" timestamp="1552804590207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1552720953102">
