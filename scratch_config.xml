@@ -15,9 +15,10 @@
         <option value="post_pick.md" />
         <option value="test.json" />
         <option value="isara.md" />
+        <option value="larastock.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="isara.md" />
+    <option name="lastOpenedScratch" value="larastock.md" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
